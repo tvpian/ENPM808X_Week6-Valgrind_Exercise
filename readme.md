@@ -1,6 +1,6 @@
-## Overview
+# Overview
 
-Week 6 - Assignment 
+## Week 6 - Assignment 
 
 ### For Valgrind outputs
  > View the **'<valgrind_op_before.png'**  (Before error removal)
